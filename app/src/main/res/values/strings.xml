@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PrintSahyogi</string>
+    <string name="dashboard_title">PrintSahyogi / प्रिंटसहयोगी</string>
+    <string name="tool_aadhaar">Aadhaar Card Crop / आधार कार्ड</string>
+    <string name="tool_pan">PAN Card Print / पैन कार्ड</string>
+    <string name="tool_passport">Passport Photo / पासपोर्ट फोटो</string>
+    <string name="tool_scanner">Mobile Scanner / मोबाइल स्कैनर</string>
+    <string name="tool_bg_removal">Remove Background / बैकग्राउंड हटाएं</string>
+    <string name="tool_bulk">Bulk Process / एक साथ कई फाइलें</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_recent">Recent Files</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "PrintSahyogi",
+  "description": "A privacy-first document printing utility app for Indian users",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
